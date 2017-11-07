@@ -1,0 +1,39 @@
+.footer {
+  /*display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;*/
+  background-color: #48484e;
+  text-align: center;
+  padding: 1vh 0;
+  width: 80%;
+  align-items: center;
+  margin: auto;
+}
+
+.footer h4 {
+  display: inline;
+  color: white;
+  font-size: 1.2em;
+}
+
+.fa {
+  font-size: 1.5em;
+  color: lightgray;
+  padding: 0 1vw;
+  margin-top: 1vh;
+}
+
+.fa:hover {
+    opacity: 0.5;
+}
+
+.footer h3 {
+  color: #eee;
+  font-size: 1.2em;
+}
+
+.footer h6 {
+  color: #eee;
+  font-size: 0.85em;
+}

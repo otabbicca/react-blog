@@ -1,0 +1,42 @@
+.header {
+  margin-top: -57.5vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(230,230,250,0.3);
+  height: 50vh;
+  flex-direction: column;
+  background-repeat: no-repeat;
+  color: ghostwhite;
+}
+
+.header-background {
+  background-image: url("/img/women2.jpg");
+  background-size: cover;
+  height: 50vh;
+  width: 80%;
+  margin: 7.5vh auto;
+  border-radius: 5px;
+}
+
+.adinkra {
+  font-size: 8em;
+  color: #ef6265;
+}
+
+.header h1{
+  padding-top: 8vh;
+  color: #FF8C00;
+  margin-bottom: -20px;
+  font-size: 5em;
+  /*font-family: 'Fredoka One', cursive;*/
+  font-family: 'Days One', sans-serif;
+}
+
+.header h3{
+  color: #FF8C00;
+  margin-top: -5vh;
+  font-size: 2.5em;
+  /*font-family: 'Fugaz One', cursive;*/
+  font-family: 'Kurale', serif;
+}
